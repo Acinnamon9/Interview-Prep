@@ -1,5 +1,5 @@
-Certainly! Here are some excellent resources for learning Flask and Django, including tutorials, documentation, and code samples.
-
+This is a list of recommended resources for learning Flask and Django. 
+Why Flask? Because its easier than Django. Why Django? because its more powerful than flask.
 ### Flask Resources
 
 1. **Flask Official Documentation**:
